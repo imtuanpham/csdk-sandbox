@@ -1,0 +1,222 @@
+Continent,Country Code,Country Name,Population
+Africa,DZ,Algeria,40400000
+Africa,AO,Angola,25868000
+Africa,BJ,Benin,10653654
+Africa,BW,Botswana,2141206
+Africa,BF,Burkina Faso,19034397
+Africa,BI,Burundi,10114505
+Africa,CV,Cabo Verde,531239
+Africa,CM,Cameroon,22709892
+Africa,CF,Central African Republic,4998000
+Africa,TD,Chad,14497000
+Africa,KM,Comoros,806153
+Africa,CG,Congo Democratic Republic of the,85026000
+Africa,DJ,Djibouti,900000
+Africa,EG,Egypt,91251890
+Africa,GQ,Equatorial Guinea,1222442
+Africa,ER,Eritrea,4474690
+Africa,SZ,Eswatini,1136191
+Africa,ET,Ethiopia,102403196
+Africa,GA,Gabon,1802278
+Africa,GM,Gambia,1882450
+Africa,GH,Ghana,27670174
+Africa,GN,Guinea,12947000
+Africa,GW,Guinea-Bissau,1547777
+Africa,KE,Kenya,47251000
+Africa,LS,Lesotho,2263010
+Africa,LR,Liberia,4615000
+Africa,LY,Libya,6385000
+Africa,MG,Madagascar,22434363
+Africa,MW,Malawi,18622104
+Africa,ML,Mali,17994837
+Africa,MR,Mauritania,4420184
+Africa,MU,Mauritius,1262879
+Africa,MA,Morocco,34224455
+Africa,MZ,Mozambique,28829476
+Africa,NA,Namibia,2324004
+Africa,NE,Niger,21477348
+Africa,NG,Nigeria,186988000
+Africa,RW,Rwanda,11553188
+Africa,ST,São Tomé and Príncipe,187356
+Africa,SN,Senegal,14799859
+Africa,SC,Seychelles,91400
+Africa,SL,Sierra Leone,7075641
+Africa,SO,Somalia,11079000
+Africa,ZA,South Africa,55653654
+Africa,SS,South Sudan,12131000
+Africa,SD,Sudan,39598700
+Africa,TZ,Tanzania,55155000
+Africa,TG,Togo,7606374
+Africa,TN,Tunisia,11154400
+Africa,UG,Uganda,39570125
+Africa,EH,Western Sahara,510713
+Africa,ZM,Zambia,15933883
+Africa,ZW,Zimbabwe,14240168
+Asia,AF,Afghanistan,27657145
+Asia,AM,Armenia,2994400
+Asia,AZ,Azerbaijan Republic,9730500
+Asia,BH,Bahrain,1404900
+Asia,BD,Bangladesh,161006790
+Asia,BT,Bhutan,775620
+Asia,BN,Brunei Darussalam,408786
+Asia,KH,Cambodia,15626444
+Asia,CN,China,1373540000
+Asia,GE,Georgia,3720400
+Asia,IN,India,1324171354
+Asia,ID,Indonesia,261115456
+Asia,IR,Iran,79369900
+Asia,IQ,Iraq,37883543
+Asia,IL,Israel,8547100
+Asia,JP,Japan,126672000
+Asia,JO,Jordan,9531712
+Asia,KZ,Kazakhstan,17753200
+Asia,KW,Kuwait,4137309
+Asia,KG,Kyrgyzstan,6045117
+Asia,LA,Laos,6492400
+Asia,LB,Lebanon,6006668
+Asia,MY,Malaysia,31187265
+Asia,MV,Maldives,427756
+Asia,MN,Mongolia,3086918
+Asia,MM,Myanmar,51419420
+Asia,NP,Nepal,28431500
+Asia,KP,Korea North,25000000
+Asia,OM,Oman,4420133
+Asia,PK,Pakistan,193203476
+Asia,PH,Philippines,103320222
+Asia,QA,Qatar,2587564
+Asia,SA,Saudi Arabia,32248200
+Asia,SG,Singapore,5607000
+Asia,KR,Korea South,50982212
+Asia,LK,Sri Lanka,20950000
+Asia,SY,Syria,18564000
+Asia,TW,Taiwan,23503349
+Asia,TJ,Tajikistan,8593600
+Asia,TH,Thailand,65327652
+Asia,TR,Turkey,78741053
+Asia,TM,Turkmenistan,4751120
+Asia,AE,United Arab Emirates,9856000
+Asia,UZ,Uzbekistan,31910641
+Asia,VN,Vietnam,92700000
+Asia,YE,Yemen,27478000
+Europe,AL,Albania,2876591
+Europe,AD,Andorra,78014
+Europe,AT,Austria,8735453
+Europe,BY,Belarus,9500000
+Europe,BE,Belgium,11319511
+Europe,BA,Bosnia and Herzegovina,3531159
+Europe,BG,Bulgaria,7153784
+Europe,HR,Croatia Democratic Republic of the,4190669
+Europe,CY,Cyprus,847000
+Europe,CZ,Czech Republic,10558524
+Europe,DK,Denmark,5717014
+Europe,EE,Estonia,1315819
+Europe,FO,Faroe Islands,49188
+Europe,FI,Finland,5491817
+Europe,FR,France,66710000
+Europe,DE,Germany,82667685
+Europe,GI,Gibraltar,33140
+Europe,GR,Greece,10858018
+Europe,GG,Guernsey,62999
+Europe,HU,Hungary,9823000
+Europe,IS,Iceland,334300
+Europe,IE,Ireland,6378000
+Europe,IM,Isle of Man,84497
+Europe,IT,Italy,60665551
+Europe,JE,Jersey,100800
+Europe,LV,Latvia,1961600
+Europe,LI,Liechtenstein,37623
+Europe,LT,Lithuania,2932367
+Europe,LU,Luxembourg,576200
+Europe,MK,Macedonia,2058539
+Europe,MT,Malta,429344
+Europe,MD,Moldova,3553100
+Europe,MC,Monaco,38400
+Europe,ME,Montenegro,621810
+Europe,NL,Netherlands,17019800
+Europe,NO,Norway,5223256
+Europe,PL,Poland,38437239
+Europe,PT,Portugal,10374822
+Europe,RO,Romania,19861408
+Europe,RU,Russian Federation,146599183
+Europe,SM,San Marino,33005
+Europe,RS,Serbia,7076372
+Europe,SK,Slovakia,5426252
+Europe,SI,Slovenia,2064188
+Europe,ES,Spain,46438422
+Europe,SJ,Svalbard and Jan Mayen,3200
+Europe,SE,Sweden,9851017
+Europe,CH,Switzerland,8372098
+Europe,UA,Ukraine,42692393
+Europe,GB,United Kingdom,65110000
+Europe,VA,Vatican City State,451
+North America,AI,Anguilla,13452
+North America,AG,Antigua and Barbuda,86295
+North America,BS,Bahamas,378040
+North America,BB,Barbados,285000
+North America,BZ,Belize,360346
+North America,BM,Bermuda,61954
+North America,CA,Canada,36155487
+North America,KY,Cayman Islands,58238
+North America,CR,Costa Rica,4999441
+North America,CU,Cuba,11239004
+North America,DM,Dominica,71293
+North America,DO,Dominican Republic,10075045
+North America,SV,El Salvador,6520675
+North America,GL,Greenland,55877
+North America,GD,Grenada,103328
+North America,GT,Guatemala,16176133
+North America,HT,Haiti,11078033
+North America,HN,Honduras,8576532
+North America,JM,Jamaica,2723246
+North America,MX,Mexico,122273473
+North America,MS,Montserrat,4922
+North America,NI,Nicaragua,6262703
+North America,PA,Panama,3814672
+North America,PR,Puerto Rico,3474182
+North America,KN,Saint Kitts-Nevis,46204
+North America,LC,Saint Lucia,186000
+North America,PM,Saint Pierre and Miquelon,6069
+North America,VC,Saint Vincent and the Grenadines,109991
+North America,TT,Trinidad and Tobago,1228691
+North America,TC,Turks and Caicos Islands,31458
+North America,US,United States,326766748
+North America,VI,Virgin Islands (U.S.),106235
+South America,AR,Argentina,43847430
+South America,BO,Bolivia,11051600
+South America,BR,Brazil,209288278
+South America,CL,Chile,18191900
+South America,CO,Colombia,49065615
+South America,EC,Ecuador,16624858
+South America,FK,Falkland Islands (Islas Makvinas),2563
+South America,GF,French Guiana,269352
+South America,GY,Guyana,777859
+South America,PY,Paraguay,6811297
+South America,PE,Peru,32165485
+South America,SR,Suriname,542975
+South America,UY,Uruguay,3456750
+South America,VE,Venezuela,31977065
+Oceania,AS,American Samoa,55641
+Oceania,AU,Australia,24450561
+Oceania,CK,Cook Islands,17380
+Oceania,FJ,Fiji,905502
+Oceania,PF,French Polynesia,271800
+Oceania,GU,Guam,168564
+Oceania,KI,Kiribati,113400
+Oceania,MH,Marshall Islands,53127
+Oceania,FM,Micronesia,105544
+Oceania,NR,Nauru,10084
+Oceania,NC,New Caledonia,268767
+Oceania,NZ,New Zealand,4693200
+Oceania,NU,Niue,1618
+Oceania,NF,Norfolk Island,2302
+Oceania,MP,Northern Mariana Islands,56940
+Oceania,PW,Palau,21729
+Oceania,PG,Papua New Guinea,8251162
+Oceania,PN,Pitcairn Islands,56
+Oceania,WS,Samoa,196440
+Oceania,SB,Solomon Islands,611343
+Oceania,TK,Tokelau,1411
+Oceania,TO,Tonga,108020
+Oceania,TV,Tuvalu,11323
+Oceania,VU,Vanuatu,276244
+Oceania,WF,Wallis and Futuna,11750

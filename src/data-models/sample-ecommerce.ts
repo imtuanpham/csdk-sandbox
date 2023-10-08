@@ -133,3 +133,33 @@ export const Country = createDimension({
     expression: '[Country.Country ID]',
   }),
 }) as CountryDimension;
+
+interface CountryPopulationDimension extends Dimension {
+  Continent: Attribute;
+  CountryCode: Attribute;
+  CountryName: Attribute;
+  Population: Attribute;
+}
+export const CountryPopulation = createDimension({
+  name: 'CountryPopulation',
+  Continent: createAttribute({
+    name: 'Continent',
+    type: 'text-attribute',
+    expression: '[CountryPopulation.Continent]',
+  }),
+  CountryCode: createAttribute({
+    name: 'CountryCode',
+    type: 'text-attribute',
+    expression: '[CountryPopulation.Country Code]',
+  }),
+  CountryName: createAttribute({
+    name: 'CountryName',
+    type: 'text-attribute',
+    expression: '[CountryPopulation.Country Name]',
+  }),
+  Population: createAttribute({
+    name: 'Population',
+    type: 'numeric-attribute',
+    expression: '[CountryPopulation.Population]',
+  }),
+}) as CountryPopulationDimension;
