@@ -5,7 +5,7 @@
  * The resulting graph offers insights into the ecommerce trends across different age ranges.
  */
 import Plot from 'react-plotly.js';
-import { measures } from '@sisense/sdk-data';
+import { measureFactory } from '@sisense/sdk-data';
 import { useExecuteQuery } from '@sisense/sdk-ui';
 import * as DM from '../data-models/sample-ecommerce';
 
@@ -15,8 +15,8 @@ const PlotlyBasicLinePlot = () => {
     dataSource: DM.DataSource,
     dimensions: [DM.Commerce.AgeRange],
     measures: [
-      measures.sum(DM.Commerce.Cost, 'Total Cost'),
-      measures.sum(DM.Commerce.Revenue, 'Total Revenue'),
+      measureFactory.sum(DM.Commerce.Cost, 'Total Cost'),
+      measureFactory.sum(DM.Commerce.Revenue, 'Total Revenue'),
     ],
   });
 

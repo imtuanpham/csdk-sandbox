@@ -5,7 +5,7 @@
  */
 import { useExecuteQuery } from '@sisense/sdk-ui';
 import * as DM from '../data-models/sample-ecommerce';
-import { measures } from '@sisense/sdk-data';
+import { measureFactory } from '@sisense/sdk-data';
 import { BarChart } from '@mui/x-charts/BarChart';
 import { axisClasses } from '@mui/x-charts';
 
@@ -17,8 +17,8 @@ const MuiBarChart = () => {
     dataSource: DM.DataSource,
     dimensions: [DM.Commerce.AgeRange],
     measures: [
-      measures.sum(DM.Commerce.Cost, 'Total Cost'),
-      measures.sum(DM.Commerce.Revenue, 'Total Revenue'),
+      measureFactory.sum(DM.Commerce.Cost, 'Total Cost'),
+      measureFactory.sum(DM.Commerce.Revenue, 'Total Revenue'),
     ],
   });
 

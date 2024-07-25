@@ -1,6 +1,6 @@
 import { useExecuteQuery } from '@sisense/sdk-ui';
 import * as DM from '../data-models/sample-ecommerce';
-import { measures as measureFactory, QueryResultData } from '@sisense/sdk-data';
+import { measureFactory, QueryResultData } from '@sisense/sdk-data';
 import { useLayoutEffect } from 'react';
 import * as am5 from '@amcharts/amcharts5';
 import * as am5hierarchy from '@amcharts/amcharts5/hierarchy';

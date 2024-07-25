@@ -5,7 +5,7 @@
  */
 import { useExecuteQuery } from '@sisense/sdk-ui';
 import * as DM from '../data-models/sample-ecommerce';
-import { measures } from '@sisense/sdk-data';
+import { measureFactory } from '@sisense/sdk-data';
 import { BarPlot } from '@mui/x-charts/BarChart';
 import { LinePlot } from '@mui/x-charts/LineChart';
 import { ChartContainer } from '@mui/x-charts/ChartContainer';
@@ -20,9 +20,9 @@ const MuiHybridChart = () => {
     dataSource: DM.DataSource,
     dimensions: [DM.Commerce.AgeRange],
     measures: [
-      measures.sum(DM.Commerce.Cost, 'Total Cost'),
-      measures.sum(DM.Commerce.Revenue, 'Total Revenue'),
-      measures.sum(DM.Commerce.Quantity, 'Total Quantity'),
+      measureFactory.sum(DM.Commerce.Cost, 'Total Cost'),
+      measureFactory.sum(DM.Commerce.Revenue, 'Total Revenue'),
+      measureFactory.sum(DM.Commerce.Quantity, 'Total Quantity'),
     ],
   });
 
